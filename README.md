@@ -55,13 +55,6 @@
 </p>
 
 <br/>
-<br/>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemorles&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="lemorles" />
-</p>
-
-<br/>
 
 ## 🚀 Projects:
 
@@ -94,6 +87,12 @@ Weather App is a SPA (Single Page Application) that consumes information from an
 
 <br/>
 <img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413389/projects/weather-app_j88as2.png'  alt="weather app" />
+
+<br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemorles&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="lemorles" />
+</p>
 
 <br/>
 
