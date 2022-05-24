@@ -90,6 +90,16 @@ Weather App is a SPA (Single Page Application) that consumes information from an
 
 <br/>
 
+### Seguros Contar
+Seguros Contar is a SPA (Single Page Application) in which you can view the vehicle insurance quotes in real time from the company Galeno Seguros..
+
+- Frontend: React JS, Redux, Material UI, React-router-DOM, Redux thunk.
+
+<br/>
+<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653419370/projects/cotizar-cotizaciones_gpun6q.png'  alt="seguros contar" />
+
+<br/>
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemorles&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="lemorles" />
 </p>
