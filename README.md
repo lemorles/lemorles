@@ -13,7 +13,7 @@
 
 <br/>
 
-## 🚀 Languages and Tools:
+## ⚙️ Languages and Tools:
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -60,6 +60,40 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemorles&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="lemorles" />
 </p>
+
+<br/>
+
+## 🚀 Projects:
+
+### Puppy Point
+Puppy Point is an app that connects dog walkers with people who don't have time and want their pets to be walked.
+
+- Backend: Node JS, Express JS, Sequelize, Postgres, Mercado Pago, Nodemailer, Handlebars, JWT, Axios
+- Frontend: React JS, Redux, Chakra UI, Chart JS, Geolocation, Mercado Pago, Axios, React-router-DOM, Redux Thunk
+
+<br/>
+<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
+
+<br/>
+
+### Countries App
+Countries App is a SPA (Single Page Application) in which all the countries of the world and their respective tourist activities can be viewed.
+
+- Backend: Node JS, Express JS, Sequelize, Postgres, Axios
+- Frontend: React JS, Redux, CSS Modules, React-router-DOM, Redux Thunk
+
+<br/>
+<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413575/projects/countries_ziffec.png'  alt="countries app" />
+
+<br/>
+
+### Weather App
+Weather App is a SPA (Single Page Application) that consumes information from an API (OpenWeatherApp) and displays the weather of the places chosen by the user.
+
+- Frontend: React JS, CSS Modules, React-router-DOM.
+
+<br/>
+<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413389/projects/weather-app_j88as2.png'  alt="weather app" />
 
 <br/>
 
