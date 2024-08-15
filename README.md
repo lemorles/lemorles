@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">A passionate Full Stack Javascript Developer from Argentina</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Fullstack Developer
 
-- 🔭 I’m currently working on [Puppy Point](https://puppypoint.vercel.app/)
+- 👨‍💻 I'm a Technical Analyst and Systems Programmer from the IES-9023 Institute, Mendoza, Argentina.
 
-- 🌱 I’m currently learning **styled-components**
-
-- 📫 How to reach me **leomoralesarce@gmail.com**
+- 📫 How to reach me **leandromoralesarce@gmail.com**
 
 - ⚡ Fun fact **I play videogames.**
 
 <br/>
 
-## ⚙️ Languages and Tools:
+### 🌐 Socials:
+
+<p>
+  <a href="https://linkedin.com/in/lemorles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+## ⚙️ Skills:
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -56,74 +62,7 @@
 
 <br/>
 
-## 🚀 Projects:
-
-### Puppy Point
-Puppy Point is an app that connects dog walkers with people who don't have time and want their pets to be walked.
-
-- Backend: Node JS, Express JS, Sequelize, Postgres, Mercado Pago, Nodemailer, Handlebars, JWT, Axios
-- Frontend: React JS, Redux, Chakra UI, Chart JS, Geolocation, Mercado Pago, Axios, React-router-DOM, Redux Thunk
-
-<br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
-
-<br/>
-
-### Countries App
-Countries App is a SPA (Single Page Application) in which all the countries of the world and their respective tourist activities can be viewed.
-
-- Backend: Node JS, Express JS, Sequelize, Postgres, Axios
-- Frontend: React JS, Redux, CSS Modules, React-router-DOM, Redux Thunk
-
-<br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413575/projects/countries_ziffec.png'  alt="countries app" />
-
-<br/>
-
-### Weather App
-Weather App is a SPA (Single Page Application) that consumes information from an API (OpenWeatherApp) and displays the weather of the places chosen by the user.
-
-- Frontend: React JS, CSS Modules, React-router-DOM.
-
-<br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413389/projects/weather-app_j88as2.png'  alt="weather app" />
-
-<br/>
-
-### Seguros Contar
-Seguros Contar is a SPA (Single Page Application) in which you can view the vehicle insurance quotes in real time.
-
-- Frontend: React JS, Redux, Material UI, React-router-DOM, Redux thunk.
-
-<br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653419370/projects/cotizar-cotizaciones_gpun6q.png'  alt="seguros contar" />
-
-<br/>
-
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemorles&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="lemorles" />
-</p>
-
-<br/>
-
-## 📊 My Github Stats
-
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemorles&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemorles&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Connect with me:
-
-<p>
-  <a href="https://linkedin.com/in/lemorles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a>
 </p>
 
